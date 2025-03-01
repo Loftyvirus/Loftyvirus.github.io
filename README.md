@@ -1,1 +1,1 @@
-# Creating new loftyvirus blog site
+# documentation astro initialized
