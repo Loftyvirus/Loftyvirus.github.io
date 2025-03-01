@@ -1,5 +1,18 @@
 ---
 ---
-## Hello world!
 
-Welcome to your new documentation site! First, configure your `_config.yml` to remove the demo content and adjust your own settings. [See config documentation](https://olivier3lanc.github.io/Jekyll-LibDoc/libdoc-config.html)
+# Welcome to LoftyVirus!
+
+LoftyVirus is a crew of rookie developers trying to build cool open-source projects. We keep it simple, we keep it fun, and we learn as we go.
+
+## Get Involved
+
+Got an idea? Want to contribute? Jump in and let's build something awesome together!
+
+## Contact Us
+
+- **GitHub:** [github.com/loftyvirus](https://github.com/loftyvirus)
+
+---
+
+Let's code and grow! 🚀
