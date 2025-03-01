@@ -1,1 +1,1 @@
-# documentation astro initialized
+## jekyl documentation instead.
