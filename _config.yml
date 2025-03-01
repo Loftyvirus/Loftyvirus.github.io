@@ -22,6 +22,8 @@ kramdown:
         disable: true
 sass:
     style: compressed
+
+    
 # exclude: ['/assets/libdoc/ajax/playground-settings.html']
 
 # ---------
