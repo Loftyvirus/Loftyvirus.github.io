@@ -2,7 +2,7 @@
 title: VLC-Discord RPC
 description: VLC media player rich presence for Discord
 layout: libdoc/page
-order: i
+order: 1
 ---
 
 # VLC Rich Presence
