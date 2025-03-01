@@ -13,6 +13,9 @@ description: >- # Description of the docs. (>- means to ignore newlines until ne
 #destination: ../your/new/path # Build relative path destination. The destination directory e.g. /blog
 #keep_files: [cache]
 #markdown: kramdown
+
+permalink: pretty
+
 defaults:
   -
     values:
