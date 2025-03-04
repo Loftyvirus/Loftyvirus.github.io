@@ -5,9 +5,6 @@ layout: libdoc/page
 order: 1
 ---
 
-# VLC Rich Presence
-
-[![Discord](https://img.shields.io/badge/Discord-Rich%20Presence-blue)](https://discord.com/developers/docs/rich-presence)
 
 A simple integration that updates your Discord status with the media currently playing on **VLC Media Player** using Discord's Rich Presence.
 
