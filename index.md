@@ -1,9 +1,7 @@
 ---
 ---
 
-# Welcome to LoftyVirus!
-
-LoftyVirus is a crew of rookie developers trying to build cool open-source projects. We keep it simple, we keep it fun, and we learn as we go.
+_LoftyVirus is a crew of rookie developers trying to build cool open-source projects. We keep it simple, we keep it fun, and we learn as we go._
 
 ## Get Involved
 
