@@ -56,10 +56,10 @@ To create a new post, add a Markdown file in the `_posts/` directory with the fo
 ```markdown
 ---
 layout: post
-title: "First Post"
-date: 2025-03-15
-image: /assets/web/nepalibabufirst.png
-excerpt: "The first post of this theme."
+title: "Our Amazing Contributors"
+date: 2025-01-14 16:45:00 +0530
+author: "Safal Lama"
+categories: contributors
 ---
 ```
 
@@ -68,7 +68,7 @@ excerpt: "The first post of this theme."
 ## Customizing Styles
 
 1. Create a custom SCSS file in the `_sass/` directory.  
-   Example: `_sass/_rightbar.scss`
+   Example: `_sass/style.scss`
 
 2. Compile the SCSS file to CSS using:
 
@@ -76,7 +76,7 @@ excerpt: "The first post of this theme."
    sass _sass/_rightbar.scss assets/css/rightbar.css
    ```
 
-3. Include the compiled CSS file in the `default.html` layout to apply your styles.
+3. Include the compiled CSS file in the `header.html` layout to apply your styles.
 
 ---
 
@@ -89,7 +89,7 @@ To add custom JavaScript:
    ```html
    <script src="/assets/scripts/your-script.js"></script>
    ```
-   _For best practices, use relative URLs as shown in the existing scripts in `default.html`._
+   _For best practices, use relative URLs as shown in the existing scripts in `header.html`._
 
 ---
 
@@ -98,7 +98,7 @@ To add custom JavaScript:
 The `assets/gallery/` directory stores images, logos, and other media.
 
 1. Add your files to this directory.
-2. Update the `gallery.html` layout to customize paths and display options.
+2. Update the `gallery.yml` data to customize paths and display options. [no change recommended]
 
 ---
 
@@ -112,6 +112,9 @@ To build and run the Jekyll site using Docker:
 ```
 
 Access the site at `http://localhost:4000/`.
+
+_or u can just open the docker and open vscode, vscode will auto detect out devcontainer and build it for you.
+start serving after devcontainer is opened in the embedded terminal -> delete and run other if build cache is up there!_
 
 ---
 
